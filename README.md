@@ -28,6 +28,23 @@ Include ERD image here.
 
 ## Key Insights
 
-
+## Structure
+```
+sql-restaurant-sales-project/
+│
+├── README.md
+├── schema.sql
+├── analysis_queries.sql
+├── customers.csv
+├── address.csv
+├── items.csv
+├── orders.csv
+├── generate_item.py
+├── generate_restaurant_data.py
+└── images/
+    ├── erd.png
+    ├── menu.png
+    └── logo.png
+```
 ## Files
 Briefly explain what each file does.
