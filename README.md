@@ -17,6 +17,7 @@ The database contains four tables:
 - CSV files
 
 ## Schema
+
 ![ERD Diagram](images/ERD_dbdiagram.png)
 
 ## Business Questions
