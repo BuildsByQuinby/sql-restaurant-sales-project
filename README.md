@@ -3,7 +3,7 @@
 ## Overview
 This project simulates restaurant order data for a pizza restaurant and uses SQL to analyze sales, customer behavior, and ordering patterns. The dataset was generated using Python Faker, and the restaurant was inspired by my wife’s and my favorite pizza spot, Miguel’s Pizza.
 
-![Miguels_Pizza](Miguels_Pizza.png)
+![Miguels_Pizza](images/Miguels_Pizza.png)
 
 ## Dataset
 The database contains four tables:
