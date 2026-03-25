@@ -1,7 +1,9 @@
 # Restaurant Sales SQL Project
 
 ## Overview
-This project simulates restaurant order data for a pizza restaurant and uses SQL to analyze sales, customers, and ordering patterns.
+This project simulates restaurant order data for a pizza restaurant and uses SQL to analyze sales, customer behavior, and ordering patterns. The dataset was generated using Python Faker, and the restaurant was inspired by my wife’s and my favorite pizza spot, Miguel’s Pizza.
+
+![ERD Diagram](Miguels_Pizza.png)
 
 ## Dataset
 The database contains four tables:
