@@ -37,15 +37,29 @@ sql-restaurant-sales-project/
 │
 ├── README.md
 ├── analysis_queries.sql
-└── generate_restaurant_data/
+└── data/
     ├── customers.csv
     ├── address.csv
     ├── items.csv
     ├── orders.csv
     ├── generate_item.py
-    └── generate_restaurant_data.py
+    └── generate_data.py
 └── images/
     ├── Miguels_Pizza.png
     └── ERD_dbdiagram.png
 ```
+## Data Generation
+
+The dataset was generated using Python and the Faker library to simulate realistic restaurant activity. The data includes randomized customer information, delivery addresses, menu items, and weighted order behavior to better reflect real-world patterns.
+
+The script used to generate the data can be found in:
+`data/generate_data.py`
+`data/generate_items.py`
+
+It creates:
+- customers.csv
+- address.csv
+- orders.csv
+- items.csv
+
 ## Files
