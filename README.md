@@ -29,7 +29,45 @@ The database contains four tables:
 - Which customers spend the most?
 - How many orders are delivery vs pickup?
 
-## Key Insights
+## Key Metrics
+
+- Total Revenue: $91,342
+- Average Order Value: $18.27
+- Top Item: Pepperoni Pizza
+- Top Category: Pizza
+- Total Orders: 5,000
+
+## Query Results & Insights
+
+### Revenue Overview
+- Total revenue generated across all orders was approximately $91,342.
+- The average order value indicates moderate per-transaction spend, consistent with single-item or small basket purchases in the dataset.
+
+### Product Performance
+- Core menu items, particularly pizza variations, dominated both sales volume and revenue.
+- The highest-grossing item significantly outperformed other menu options, reinforcing the importance of staple offerings.
+- Category-level analysis shows that primary food categories (e.g., pizza and subs) contribute the majority of total revenue, while sides, drinks, and desserts play a smaller supporting role.
+
+### Customer Behavior
+- A small subset of customers generated a disproportionately high share of total revenue, indicating repeat purchasing behavior and the presence of high-value customers.
+- This pattern suggests potential opportunities for loyalty programs or targeted promotions.
+
+### Order Timing Trends
+- Order volume peaks during lunch (around 12 PM) and dinner hours (6–7 PM), with the highest concentration of orders occurring in the early evening.
+- Orders drop off significantly after 8 PM, reflecting typical restaurant demand patterns.
+- Day-of-week trends show variation in order volume, with certain days consistently outperforming others.
+
+### Delivery vs Pickup
+- Delivery and pickup orders are relatively balanced, indicating that both channels are important contributors to overall business performance.
+- This suggests the restaurant operates in a hybrid model where both convenience (delivery) and in-person pickup are equally utilized.
+
+### Geographic Trends
+- Revenue is concentrated in specific zip codes, indicating localized clusters of demand.
+- These high-performing areas could represent key markets for targeted marketing or expansion.
+
+### Data Notes
+- This dataset is synthetically generated, and each order record represents a single item-level transaction within the simplified schema.
+- Despite this, the observed patterns align with realistic restaurant behavior due to weighted data generation.
 
 ## Structure
 ```
