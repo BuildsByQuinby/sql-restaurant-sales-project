@@ -1,0 +1,29 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+1,rq99,Cheese,Pizza,Small,18.64
+2,Qb07,Pepperoni,Pizza,Large,7.8
+3,fr31,Supreme,Pizza,Medium,13.33
+4,fA24,Veggie,Pizza,Regular,12.72
+5,eG17,BBQ Chicken,Pizza,Regular,18.75
+6,QL36,Italian Sub,Sub,Large,4.16
+7,gP95,Turkey Sub,Sub,Regular,6.79
+8,gZ89,Ham & Cheese,Sub,Regular,7.6
+9,lQ17,Philly Cheesesteak,Sub,Medium,10.49
+10,Og62,Buffalo Wings,Wings,Medium,18.86
+11,Uf59,Garlic Parmesan Wings,Wings,Large,10.02
+12,bV90,BBQ Wings,Wings,Large,12.09
+13,co78,Fries,Side,Small,8.57
+14,Ec14,Mozzarella Sticks,Side,Regular,7.4
+15,iA38,Garlic Bread,Side,Small,3.53
+16,lM00,Onion Rings,Side,Large,17.11
+17,EL64,Garden Salad,Salad,Small,4.95
+18,Ku53,Greek Salad,Salad,Large,7.64
+19,nA40,Caesar Salad,Salad,Regular,2.32
+20,SL95,Spaghetti,Pasta,Regular,15.18
+21,vZ59,Chicken Alfredo,Pasta,Small,11.1
+22,sy91,Lasagna,Pasta,Medium,5.93
+23,Ko10,Cheesecake,Dessert,Regular,15.09
+24,qW02,Cannoli,Dessert,Large,13.61
+25,um55,Chocolate Cake,Dessert,Large,10.85
+26,cd20,Soda,Drink,Medium,9.73
+27,Ed24,Iced Tea,Drink,Regular,15.23
+28,VQ88,Water,Drink,Medium,19.14
