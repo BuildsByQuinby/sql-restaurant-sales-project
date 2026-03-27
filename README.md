@@ -81,7 +81,7 @@ sql-restaurant-sales-project/
     ├── items.csv
     ├── orders.csv
     ├── generate_item.py
-    └── generate_data.py
+    └── generate_cust_order.py
 └── images/
     ├── Miguels_Pizza.png
     └── ERD_dbdiagram.png
