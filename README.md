@@ -77,7 +77,7 @@ sql-restaurant-sales-project/
 ├── analysis_queries.sql
 └── data/
     ├── customers.csv
-    ├── address.csv
+    ├── address.csv 
     ├── items.csv
     ├── orders.csv
     ├── generate_item.py
