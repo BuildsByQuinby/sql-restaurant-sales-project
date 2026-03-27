@@ -75,16 +75,17 @@ sql-restaurant-sales-project/
 │
 ├── README.md
 ├── analysis_queries.sql
-└── data/
-    ├── customers.csv
-    ├── address.csv 
-    ├── items.csv
-    ├── orders.csv
-    ├── generate_items.py
-    └── generate_cust_order.py
+├── data/
+│ ├── customers.csv
+│ ├── address.csv
+│ ├── items.csv
+│ ├── orders.csv
+│ ├── generate_items.py
+│ └── generate_cust_order.py
+│
 └── images/
-    ├── Miguels_Pizza.png
-    └── ERD_dbdiagram.png
+  ├── Miguels_Pizza.png
+  └── ERD_dbdiagram.png
 ```
 ## Data Generation
 
