@@ -36,18 +36,16 @@ The database contains four tables:
 sql-restaurant-sales-project/
 │
 ├── README.md
-├── schema.sql
 ├── analysis_queries.sql
-├── customers.csv
-├── address.csv
-├── items.csv
-├── orders.csv
-├── generate_item.py
-├── generate_restaurant_data.py
+└── generate_restaurant_data/
+    ├── customers.csv
+    ├── address.csv
+    ├── items.csv
+    ├── orders.csv
+    ├── generate_item.py
+    └── generate_restaurant_data.py
 └── images/
-    ├── erd.png
-    ├── menu.png
-    └── logo.png
+    ├── Miguels_Pizza.png
+    └── ERD_dbdiagram.png
 ```
 ## Files
-Briefly explain what each file does.
