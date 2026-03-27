@@ -80,7 +80,7 @@ sql-restaurant-sales-project/
     ├── address.csv 
     ├── items.csv
     ├── orders.csv
-    ├── generate_item.py
+    ├── generate_items.py
     └── generate_cust_order.py
 └── images/
     ├── Miguels_Pizza.png
